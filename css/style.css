@@ -1,0 +1,54 @@
+.timer {
+  display: block;
+  width: 200px;
+  font-size: 48px;
+  margin: 0 auto;
+}
+#ms {
+  margin-left: 50px;
+  font-size: 24px;
+}
+#click1 {
+  display: block;
+  width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  margin-left: -50px;
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
+#click2 {
+  display: none;
+  width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  margin-left: -50px;
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
+#click3 {
+  display: block;
+  width: 100px;
+  position: absolute;
+  top: 150px;
+  left: 50%;
+  margin-left: -50px;
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
+#click4 {
+  display: block;
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  margin-left: -50px;
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
